@@ -1,6 +1,11 @@
 {
   "name": "webpack-exerciseing",
   "packageManager": "yarn@3.1.1",
+  "author": {
+    "name": "Hamid Hassani",
+    "github": "https://github.com/hamit19",
+    "website": "https://hamid-hassani-dev.netlify.app/"
+  },
   "scripts": {
     "build": " NODE_ENV=production webpack --mode production  ",
     "dev": " NODE_ENV=development webpack --mode development  ",
